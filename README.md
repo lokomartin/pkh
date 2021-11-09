@@ -4,7 +4,10 @@ A Torrent, youtube-dl Leecher, and Uploader!
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [COPYING](./COPYING) for more details.
 
-## installing
+## installing.  
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajeshsaini2115/PublicLeech)
 
 ### The Eas(iest) Way
 
